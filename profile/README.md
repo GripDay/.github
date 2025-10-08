@@ -26,4 +26,4 @@ Java 25 • Spring Boot 3.3+ • React 19 • PostgreSQL 16+ • Redis • Kafka
 
 ## 🤝 Links
 
-[Contributing](../.github/CONTRIBUTING.md) • [Code of Conduct](../.github/CODE_OF_CONDUCT.md) • [Changelog](../CHANGELOG.md) • [License](../LICENSE)
+[Contributing](../.github/CONTRIBUTING.md) • [Code of Conduct](../.github/CODE_OF_CONDUCT.md) • [License](../LICENSE)
