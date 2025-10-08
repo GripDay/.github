@@ -2,7 +2,7 @@
 
 > **Open-Core Marketing Automation** for SDRs and SaaS businesses
 
-[![Java](https://img.shields.io/badge/Java-25-orange.svg)](https://openjdk.java.net/)
+[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.java.net/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3+-green.svg)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-19-blue.svg)](https://reactjs.org/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red.svg)](LICENSE)
@@ -22,7 +22,7 @@ Multi-tenant architecture • Contact management • Email marketing • Workflo
 
 ## 🏗️ Stack
 
-Java 25 • Spring Boot 3.3+ • React 19 • PostgreSQL 16+ • Redis • Kafka • Kubernetes
+Java 21 • Spring Boot 3.3+ • React 19 • PostgreSQL 16+ • Redis • Kafka • Kubernetes
 
 ## 🤝 Links
 
