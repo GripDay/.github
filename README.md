@@ -4,31 +4,11 @@ Default Community Health Files for the organization on GitHub
 
 ---
 
-## 📆 Changelog
+## 🤝 Community
 
-Conventional changelog located [here](CHANGELOG.md).
-
-## 👍 Acknowledgments
-
-...
-
-
-## 🙏 Community & Contributions
-
-Please follow [Contributing](.github/CONTRIBUTING.md) page.
-
-<a name="codeofconduct"></a>
-
-## 📙 Code of Conduct
-
-Please follow [Code of Conduct](.github/CODE_OF_CONDUCT.md) page.
-
-<a name="troubleshooting"></a>
-
-## 💥 Troubleshooting
-
-...
+- **Contributing**: Follow our [Contributing Guidelines](.github/CONTRIBUTING.md)
+- **Code of Conduct**: Please read our [Code of Conduct](.github/CODE_OF_CONDUCT.md)
 
 ## 📑 License
 
-This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for more details.
+Licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
