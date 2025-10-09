@@ -1,29 +1,47 @@
 # 🎯 GripDay
 
-> **Open-Core Marketing Automation** for SDRs and SaaS businesses
+> **Open-Core Marketing Automation Platform** - Sustainable growth for SDRs and SaaS businesses
 
-[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.java.net/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3+-green.svg)](https://spring.io/projects/spring-boot)
-[![React](https://img.shields.io/badge/React-19-blue.svg)](https://reactjs.org/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red.svg)](LICENSE)
+[![SDR Focused](https://img.shields.io/badge/SDR-Focused-blue.svg)](#)
 
-**Modular platform** with open-source core + commercial plugins for sustainable growth.
+**The first enterprise-grade open-core B2B marketing automation platform** that enables sustainable business growth through modular architecture.
 
-## 🎯 For
+## 🚀 Business Purpose
 
-- **SDRs**: Free automation tools for daily productivity
-- **Teams**: Commercial plugins as you scale
-- **SaaS**: Open-core foundation for your products
-- **Enterprise**: Full suite with support & customization
+**Enable SaaS Business Growth** through open-core marketing automation that scales from free core modules to full commercial suite.
 
-## ⚡ Features
+### Value Proposition
 
-Multi-tenant architecture • Contact management • Email marketing • Workflow automation • Real-time analytics
+- **Individual SDRs**: Free core automation for daily productivity and quota achievement
+- **Growing Teams**: Commercial plugins for advanced features as teams scale
+- **SaaS Businesses**: Open-core foundation for building competitive marketing automation products
+- **Enterprise**: Full commercial suite with support, customization, and service guarantees
 
-## 🏗️ Stack
+## 💰 Open-Core Business Model
 
-Java 21 • Spring Boot 3.3+ • React 19 • PostgreSQL 16+ • Redis • Kafka • Kubernetes
+**Core Modules (Free)**
 
-## 🤝 Links
+- Foundation platform with essential automation
+- Basic CRM integrations and lead scoring
+- Standard reporting and community features
 
-[Contributing](../.github/CONTRIBUTING.md) • [Code of Conduct](../.github/CODE_OF_CONDUCT.md) • [License](../LICENSE)
+**Commercial Features (Licensed)**
+
+- Premium plugins and advanced integrations
+- AI-powered features and predictive analytics
+- Enterprise services and white-label solutions
+
+## 🎯 Market Opportunity
+
+- **$6.1B** B2B marketing automation market with **12.8% CAGR**
+- **First** enterprise-grade open-core solution in the space
+- **Cost savings** of 50-70% vs traditional enterprise platforms
+- **No vendor lock-in** with open-source core architecture
+
+## 🏆 Competitive Advantages
+
+- **Sustainable Innovation**: Commercial revenue funds continuous development
+- **Modular Flexibility**: Mix free and premium features based on business needs
+- **Platform Independence**: Build your own SaaS solutions on proven foundation
+- **Community-Driven**: Open-source transparency with professional support options
