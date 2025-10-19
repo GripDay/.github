@@ -9,10 +9,6 @@
 
 <p align="center" style="text-align: center;"><img src="https://raw.githubusercontent.com/IQKV/.github/refs/heads/dev/brand/mantine-ui-dashboard-dark-orange-marine.png" title="GripDay Dashboard" border=0 /></p>
 
-### MVP Development
-- [Backend Service](https://github.com/GripDay/svc-dashboard-backend)
-- [Frontend UI](https://github.com/GripDay/svc-dashboard-frontend)
-
 ## 🚀 Business Purpose
 
 **Enable SaaS Business Growth** through open-core marketing automation that scales from free core modules to full commercial suite.
