@@ -7,7 +7,7 @@
 
 **The first enterprise-grade open-core B2B marketing automation platform** that enables sustainable business growth through modular architecture.
 
-<p align="center" style="text-align: center;"><img src="https://raw.githubusercontent.com/IQKV/.github/refs/heads/dev/brand/mantine-ui-dashboard-dark-orange-marine.png" title="GripDay Dashboard" border=0 /></p>
+<p align="center" style="text-align: center;"><img src="https://gripday.com/assets/images/hero/hero-image.png" title="GripDay Dashboard" border=0 /></p>
 
 ## 🚀 Business Purpose
 
